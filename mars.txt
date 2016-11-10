@@ -1,3 +1,7 @@
+to test checkout committed 
+
+this is adding the chnages
+
 this is git exercise file
 
 This is to test saving the changes
