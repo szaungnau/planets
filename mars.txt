@@ -1,3 +1,5 @@
+chages after committed checkout
+
 to test checkout committed 
 
 this is adding the chnages
